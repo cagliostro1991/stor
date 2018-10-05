@@ -1,0 +1,21 @@
+.poptrox-popup .closer {
+    z-index: 9999;
+    height: 2em;
+    width: 2em;
+}
+
+.poptrox-popup .closer:before {
+    border: none;
+}
+
+img.product {
+    border-radius: 0;
+    padding: 0;
+    margin: 0 !important;
+}
+
+.poptrox-popup .caption {
+    background: #eee !important;
+    color: #888 !important;
+    
+}
